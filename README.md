@@ -1,6 +1,7 @@
 # My First Remote Repo
 
-This is my first remote repo.
+This is my first remote repo. And now I am using it in AWS.
+
 
 It started life as a local git repository.
 
