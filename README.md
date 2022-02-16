@@ -6,3 +6,6 @@ It started life as a local git repository.
 
 But you'll be able to read this on GitHub when we put it onto a GitHub remote!
 new change to this repo as I am learning how to push
+
+This remote repo will now have another branch as I am learning how branches work locally and 
+remote.
