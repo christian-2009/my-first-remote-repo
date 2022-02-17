@@ -12,3 +12,5 @@ This remote repo will now have another branch as I am learning how branches work
 remote.
 
 My name is Christian
+
+Now I am making changes via the terminal using nano in order to test my understanding of things.
